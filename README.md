@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final Year Engineering Student | Masters SQL , POWER BI , Tableau | Python | Interested in Data Analysis and Data Driven Tasks , Cloud & AI Projects
+AI/ML Data Engineer| Masters SQL , POWER BI , Tableau | Python | Interested in Data Analysis and Data Driven Tasks , Cloud & AI Projects
 
 
 # 💻 Tech Stack:
